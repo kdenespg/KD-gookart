@@ -1,0 +1,7 @@
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\bin\Debug\KD-Gokart.exe.config
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\bin\Debug\KD-Gokart.exe
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\bin\Debug\KD-Gokart.pdb
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\obj\Debug\KD-Gokart.csproj.AssemblyReference.cache
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\obj\Debug\KD-Gokart.csproj.CoreCompileInputs.cache
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\obj\Debug\KD-Gokart.exe
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\KD-Gokart\KD-Gokart\KD-Gokart\obj\Debug\KD-Gokart.pdb
